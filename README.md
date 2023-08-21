@@ -27,3 +27,6 @@ a small test
 Hello world !
 >>>>>>> 547701d1616089903332a380a0b7314860df3cc2
 >>>>>>> 9a1e782d711aa2cb4a62aad53ed8b6a57aa12d9a
+
+Hello Bernardo
+
